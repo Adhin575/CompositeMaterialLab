@@ -1,5 +1,5 @@
 # Composite Materials Virtual Laboratory (CMVL)
-### v1.0 · University of Colorado Boulder
+### v1.0 · 
 
 A production-grade desktop application for composite mechanics analysis, constitutive modeling, laminate design, failure prediction, and engineering visualization — built entirely in Python.
 
